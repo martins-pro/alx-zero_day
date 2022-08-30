@@ -1,1 +1,2 @@
-My first readme
+alx-zero_day
+Focused on my goals
